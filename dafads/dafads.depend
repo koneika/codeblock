@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707690141 source:c:\users\slava\documents\codeblock\dafads\hello.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

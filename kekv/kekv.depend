@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707748824 source:c:\users\slava\documents\codeblock\kekv\hello.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<string>
+	<cstdio>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718742814 source:c:\users\slava\documents\codeblock\4\4.cpp
+	<iostream>
+	<fstream>
+
